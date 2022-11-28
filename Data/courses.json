@@ -47,8 +47,8 @@
         "id": 3,
         "course_name": "DevOps Fundamental Course",
         "description": "The DevOps Fundamentals Course is designed to provide the core education necessary to build your DevOps vocabulary and to understand its principles and practices DevOps tools .",
-        "img": "https://i.ibb.co/myyrQTt/devO.jpg",
-        "price": "10000",
+        "img": "https://meritglobaltraining.com/backend/uploads/d3baff9b0f9f0458642a39d76489add8.png",
+        "price": "12000",
         "new_arival": "true",
         "course_outline": [
             "Amazon Elastic Block Store (EBS).",
@@ -63,7 +63,7 @@
             "DevOps Quiz Test with experience sharing."
         ],
         "Schedule": "Monday and Friday 09:00 PM - 11:00 PM",
-        "Starts": "Starts from Nov 18, 2022"
+        "Starts": "Starts from March 18, 2023"
     },
     {
         "id": 4,
