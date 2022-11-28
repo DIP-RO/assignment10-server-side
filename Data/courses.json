@@ -69,7 +69,7 @@
         "id": 4,
         "course_name": "Data Structure & Algorithm",
         "description": "This course solely focuses on data structure and algorithm fundamentals. There are a lot of people both from CS and Non-CS background who do not have adequate understandings on data structures and algorithms. ",
-        "img": "https://i.ibb.co/9rLBwH2/data.jpg",
+        "img": "http://www.mycslab.in/wp-content/uploads/2020/01/1214005f6e5f8cf0b48bc88f70dc3e7a-rimg-w2560-h1440-gmir-1024x576.jpg",
         "price": "7000",
         "new_arival": "true",
         "course_outline": [
@@ -85,7 +85,7 @@
             "Quick Sort."
         ],
         "Schedule": "Sunday and Wednesday 09:00 PM - 11:00 PM",
-        "Starts": "Starts from Dec 14, 2022"
+        "Starts": "Starts from Jan 14, 2023"
     },
     {
         "id": 5,
@@ -130,27 +130,6 @@
         ],
         "Schedule": "Sunday and Wednesday 07:00 PM - 09:00 PM",
         "Starts": "Starts from Jan 13, 2023"
-    },
-    {
-        "id": 7,
-        "course_name": "Professional Cyber Security Fundamentals",
-        "description": "This is a very beginner course with a solid foundation. What you can get from this course are 1) Basic Security Testing on Websites and prepare a Pen Testing Report 2) Overall Security Awareness and how to conduct a Security Awareness Program 3) How to protect and harden your website 4) Social Engineering - How to manage and educate your own security team",
-        "img": "https://i.ibb.co/P1xDbnh/cyber.jpg",
-        "price": "9400",
-        "new_arival": "",
-        "course_outline": [
-            "Why do we need virtualization?",
-            "Linux basic commands",
-            "How to use them effectively",
-            "Network protocols",
-            "OSI Model & Three-way Handshake",
-            "NMAP & other Tools & Techniques",
-            "Pen Testing simulation lab",
-            "Incident Analysis, Response and Triage",
-            "Introduction to various SIEM solutions",
-            "Wazuh Fundamentals"
-        ],
-        "Schedule": "Sunday and Wednesday 03:00 PM - 06:00 PM",
-        "Starts": "Starts from June 13, 2023"
     }
+  
 ]
